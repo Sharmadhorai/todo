@@ -1,4 +1,4 @@
-# 🐼 To Do - App
+# To Do - App
 
 A beautiful pastel-themed To-Do list app featuring a cute animated panda mascot.  
 Built with Flutter, designed with simplicity and fun in mind.
