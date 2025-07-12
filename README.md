@@ -1,16 +1,20 @@
-# panda_todo
+# 🐼 To Do - App
 
-A new Flutter project.
+A beautiful pastel-themed To-Do list app featuring a cute animated panda mascot.  
+Built with Flutter, designed with simplicity and fun in mind.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
 
-A few resources to get you started if this is your first Flutter project:
+- 📝 Add, edit, and delete tasks
+- 🎨 Neon animated background
+- 🐼 Animated panda mascot (walks, sits, jumps)
+- 📂 Task filtering (All / Active / Completed)
+- 🕒 Reminders and due dates
+- 🔍 Search and filter tasks
+- 🔄 Export/import tasks as JSON
+- 🌓 Dark pastel-themed UI
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
